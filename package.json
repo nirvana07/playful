@@ -1,0 +1,42 @@
+{
+  "name": "playful",
+  "version": "0.0.1",
+  "description": "playground complex app for learning angular build with Gulp.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froz-ferre/playful.git"
+  },
+  "keywords": [
+    "ng",
+    "Angular",
+    "gulp",
+    "playground",
+    "Ferre",
+    "Nirvana"
+  ],
+  "author": "Nirvana&Ferre Group Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/froz-ferre/playful/issues"
+  },
+  "homepage": "https://github.com/froz-ferre/playful#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "typescript": "^3.1.1"
+  },
+  "dependencies": {
+    "@angular/common": "^6.1.9",
+    "@angular/compiler": "^6.1.9",
+    "@angular/core": "^6.1.9",
+    "@angular/platform-browser": "^6.1.9",
+    "@angular/platform-browser-dynamic": "^6.1.9",
+    "core-js": "^2.5.7",
+    "rxjs": "^6.3.3",
+    "zone.js": "^0.8.26"
+  }
+}

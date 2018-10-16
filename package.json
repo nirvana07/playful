@@ -1,6 +1,7 @@
 {
   "name": "playful",
   "version": "0.0.0",
+  "description": "playground complex app for learning angular",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,6 +10,23 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froz-ferre/playful.git"
+  },
+  "keywords": [
+    "ng",
+    "Angular",
+    "playground",
+    "Ferre",
+    "Nirvana"
+  ],
+  "author": "Nirvana&Ferre Group Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/froz-ferre/playful/issues"
+  },
+  "homepage": "https://github.com/froz-ferre/playful#readme",
   "private": true,
   "dependencies": {
     "@angular/animations": "^6.0.3",

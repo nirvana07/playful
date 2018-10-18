@@ -1,0 +1,12 @@
+:host {
+    background-color: grey;
+    display: flex;
+}
+
+app-side-nav {
+    flex: 4;
+}
+
+#container {
+    flex: 8;
+}

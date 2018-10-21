@@ -1,3 +1,14 @@
-<p>
-  modal works!
-</p>
+<div class="modal-container" #modal>
+  <div class="modal-window">
+    <header> 
+      <span id="closeBtn" (click)="closeModal()">&times;</span>
+      Popup header
+    </header>
+    <section class="body">
+      <p>Popup content</p>
+    </section>
+    <footer>
+      <button class="btn" (click)="closeModal()">Close</button>
+    </footer>
+  </div>
+</div>
